@@ -1,0 +1,33 @@
+{
+  "name": "create-svg-collection",
+  "version": "0.0.1",
+  "description": "A console tool to build and serve your svg icon collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w2lker/create-svg-collection.git"
+  },
+  "keywords": [
+    "svg",
+    "svgStore",
+    "icon",
+    "svg",
+    "icon"
+  ],
+  "author": "w2lker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w2lker/create-svg-collection/issues"
+  },
+  "homepage": "https://github.com/w2lker/create-svg-collection#readme",
+  "dependencies": {
+    "chokidar": "^3.3.1",
+    "express": "^4.17.1",
+    "opn": "^6.0.0",
+    "svgstore": "^3.0.0-2",
+    "tmp": "^0.1.0"
+  }
+}
