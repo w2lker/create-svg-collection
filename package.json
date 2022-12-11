@@ -25,7 +25,7 @@
   "homepage": "https://github.com/w2lker/create-svg-collection#readme",
   "dependencies": {
     "chokidar": "^3.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "opn": "^6.0.0",
     "svgstore": "^3.0.0-2",
     "tmp": "^0.1.0"
